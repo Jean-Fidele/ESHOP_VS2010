@@ -1,0 +1,11 @@
+E:\APPLICATIONS\DOTNET\WebShop\WebShop\bin\WebShop.dll
+E:\APPLICATIONS\DOTNET\WebShop\WebShop\bin\WebShop.pdb
+E:\APPLICATIONS\DOTNET\WebShop\WebShop\obj\Debug\WebShop.dll
+E:\APPLICATIONS\DOTNET\WebShop\WebShop\obj\Debug\WebShop.pdb
+E:\APPLICATIONS\DOTNET\WebShop\WebShop\obj\Debug\WebShop.csprojResolveAssemblyReference.cache
+E:\APPLICATIONS\DOTNET\WebShop\WebShop\bin\EntityFramework.dll
+E:\APPLICATIONS\DOTNET\WebShop\WebShop\bin\EntityFramework.SqlServer.dll
+E:\APPLICATIONS\DOTNET\WebShop\WebShop\bin\Newtonsoft.Json.dll
+E:\APPLICATIONS\DOTNET\WebShop\WebShop\bin\EntityFramework.xml
+E:\APPLICATIONS\DOTNET\WebShop\WebShop\bin\EntityFramework.SqlServer.xml
+E:\APPLICATIONS\DOTNET\WebShop\WebShop\bin\Newtonsoft.Json.xml
